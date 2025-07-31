@@ -22,7 +22,7 @@
 
 | Login | Home | Image Upload | Diagnosis |
 | :---: | :--: | :----------: | :--------: |
-| ![Login](assets/login.png) | ![Home](assets/home.png) | ![Upload](assets/upload.png) | ![Result](assets/result.png) |
+| ![Login](https://github.com/shanker-18/drcrop/blob/main/Dr.Crop/Screenshot%20of%20Output/LoginPage.jpeg) | ![Home](https://github.com/shanker-18/drcrop/blob/main/Dr.Crop/Screenshot%20of%20Output/HomePage.jpeg)  | ![Result](https://github.com/shanker-18/drcrop/blob/main/Dr.Crop/Screenshot%20of%20Output/DiagnosePage.jpeg)|
 
 ---
 
